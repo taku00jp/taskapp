@@ -58,8 +58,8 @@
 			children = (
 				7322C1FC1CB25FE40059974F /* AppDelegate.swift */,
 				7322C1FE1CB25FE40059974F /* FirstViewController.swift */,
-				7322C2001CB25FE40059974F /* SecondViewController.swift */,
 				7322C2021CB25FE40059974F /* Main.storyboard */,
+				7322C2001CB25FE40059974F /* SecondViewController.swift */,
 				7322C2051CB25FE40059974F /* Assets.xcassets */,
 				7322C2071CB25FE40059974F /* LaunchScreen.storyboard */,
 				7322C20A1CB25FE40059974F /* Info.plist */,
